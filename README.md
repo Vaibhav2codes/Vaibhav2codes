@@ -6,9 +6,10 @@
 - 📫 How to reach me: vaibhav2112001@gmail.com
 - 👨‍💻 All of my projects are available at https://vaibhav-portfolio-7fc8d8.netlify.app/
 
+<h2>Connect With me on </h2>
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://pixabay.com/vectors/linked-in-logo-company-editorial-2668700/" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
