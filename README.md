@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Looking for Jobs in Software Developer,Web-developer(MERN) and Data Analyst Field.<br>🌱 I’m currently Graduated From NIT Kurukshetra<br>💬 Ask me about C++,DSA,OOPS,DBMS,MERN,SQL.<br>📫 How to reach me: vaibhav2112001@gmail.com<br>👨‍💻 All of my projects are available at https://vaibhav-portfolio-7fc8d8.netlify.app/
+🔭 I’m currently working as a Software Engineer JAVA backend at ZL Technologies.Always open for roles in Software Developer,Web-developer(MERN)Field.<br>🌱 I Graduated From NIT Kurukshetra in year 2024<br>💬 Ask me about JAVA,Rust,C++,DSA,OOPS,DBMS,MERN,SQL.<br>📫 How to reach me: vaibhav2112001@gmail.com<br>👨‍💻 All of my projects are available at https://vaibhav-portfolio-7fc8d8.netlify.app/
 
 
 ## 🌐 Socials:
